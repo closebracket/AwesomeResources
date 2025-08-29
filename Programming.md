@@ -82,6 +82,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 5. [GraphQL Spec](https://spec.graphql.org/)
 6. [Open Source Security Foundation (OpenSSF) Github](https://github.com/ossf) - Useful tooling and standards for security available on the OpenSSF github.
 7. [Can I Email](https://www.caniemail.com/) - Useful tool for checking compatibility of html/css/other features across email.
+8. [SEO Reference Guide](/References//SEO.md) - A complete list of SEO tags. Be aware this reference does not have navigation back to the ARL.
 
 ## Blazor
 
@@ -106,6 +107,9 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
    - 9.2 [HotChocolateGraphQL](https://github.com/brminnick/HotChocolateGraphQL)
    - 9.3 [GraphQL Workshop](https://github.com/ChilliCream/graphql-workshop)
    - 9.4 [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
+10. [The Repository Patter in C#](https://www.codeguru.com/csharp/repository-pattern-c-sharp/)
+11. [Creating a GraphQL backend in C# - How to get started with Hot Chocolate](https://medium.com/@TimHolzherr/creating-a-graphql-backend-in-c-how-to-get-started-with-hot-chocolate-12-in-net-6-30f0fb177c5c)
+12. 
 
 ## JS
 
@@ -126,6 +130,11 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 4. [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
 5. [CSS Units](https://www.geeksforgeeks.org/css-units/)
 6. [Defensive CSS](https://defensivecss.dev/)
+7. [Flexbox Froggy](https://flexboxfroggy.com/)
+8. [iOS 404](https://ios404.com/)
+
+## Type Faces and Design
+1. [Inter typeface](https://rsms.me/inter/)
 
 ## DSharp
 
@@ -191,6 +200,8 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 8. [RssReader sample](https://learn.microsoft.com/en-us/samples/microsoft/windows-appsample-rssreader/rssreader-sample/)
    - 8.1 [RssReader.sln example](https://github.com/microsoft/Windows-appsample-rssreader/blob/master/RssReader.sln)
 9. [Start .NET MAUI Development in 2024](https://www.youtube.com/watch?v=02pjHAXYK6s)
+10. [GraphQL Api](https://graphql.org/community/tools-and-libraries/)
+   - 10.1 [GraphQL Entities](https://entitygraphql.github.io/docs/getting-started)
 
 ## Documentation
 
@@ -228,10 +239,11 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 4. [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
 5. [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
-## Useful Codeforces Blogs 
+## Useful Blogs 
 
 1. [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well. 
 2. [DSA](https://codeforces.com/blog/entry/13529) - Best blog for resources like Data Structures and Algorithms.
 3. [Way-To-Practice-CP](https://codeforces.com/blog/entry/66909) - Guide to Improve Ratings
 4. [YouTube-Tutorial-For-CP](https://codeforces.com/blog/entry/43578) - Nicee YT Tutorials
 5. [Almost-all-Algo-and-Practice-Problems](https://codeforces.com/blog/entry/90912) - Best Blog to learn and practice simultaneously
+6. [How I made my EF Core query 3.42x Faster with Batching](https://www.milanjovanovic.tech/blog/how-i-made-my-efcore-query-faster-with-batching)

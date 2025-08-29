@@ -51,6 +51,10 @@
 20. [Surrey Police officer who lied about domestic abuse is sacked](https://www.getsurrey.co.uk/news/surrey-news/surrey-police-officer-who-lied-27077166?int_source=amp_continue_reading&int_medium=amp&int_campaign=continue_reading_button#amp-readmore-target)
 21. [EU to allow installation of spyware on journalists phones and laptops](https://www.thetimes.co.uk/article/journalist-spyware-eu-surveillance-sources-3lfnqqznr#:~:text=Brussels%20ambassadors%20on%20Wednesday%20agreed,music%20piracy%20or%20bicycle%20theft)
 22. [Web3 doesn't exist](https://marcushutchins.com/blog/tech/opinions/why-web3-doesnt-exist.html)
+23. [How charging your phone can compromise your data using Juice Jacking attack](https://www.mobile-hacker.com/2024/04/04/how-charging-your-phone-can-compromise-your-data-using-juice-jacking-attack/)
+24. [The Slippery Slope of Big Data in Policing](https://hir.harvard.edu/big-data-in-policing/amp/)
+25. [Living With AI and emerging technologies: meeting ethical challenges through professional standards](https://www.bcs.org/articles-opinion-and-research/living-with-ai-and-emerging-technologies-meeting-ethical-challenges-through-professional-standards/)
+26. [Child Protection among critical services affected by cyber attack on English council](https://therecord.media/leicester-uk-cyberattack-local-council)
 
 ## Guidance <a name="guidance"></a>
 
@@ -85,6 +89,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 4. [AI Standards Hub](https://aistandardshub.org/)
 5. [Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 6. [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+
 
 ## Law <a name="law"></a>
 
@@ -130,6 +135,7 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 12. [Online Harms White Paper](https://www.gov.uk/government/consultations/online-harms-white-paper/online-harms-white-paper)
 13. [Online Harms Bill Press Release](https://www.gov.uk/government/news/landmark-laws-to-keep-children-safe-stop-racial-hate-and-protect-democracy-online-published)
 14. [Parliamentary Committee - Online Harms Bill](https://committees.parliament.uk/work/1432/online-safety-and-online-harms/)
+15. [Online Harms and Disinformation](https://blogs.oxford.anglican.org/online-harms-and-disinformation/) - A blog written by [Bishop Steven Croft](https://en.wikipedia.org/wiki/Steven_Croft_(bishop)), who campaigned for the Online Safety Act despite having [failed to stop real world sexual harm to children](https://www.theguardian.com/world/2016/jul/26/senior-anglican-clergy-accused-of-failing-to-act-on-allegations), [alternate source](https://www.theguardian.com/world/2016/sep/30/survivors-abuse-church-of-england-protest-bishop-of-oxford-inauguration), [alternate source](https://thelincolnite.co.uk/2020/10/lincoln-priest-who-raped-boy-killed-himself-before-court-date/) and was at the time under investigation for such issues.
 
 ### [Kids Online Safety Act (KOSA)](https://aboutbgov.com/52Q)
 
@@ -155,6 +161,11 @@ guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 3. [E.U. Takes Aim at Social Media’s Harms With Landmark New Law](https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html)
 4. [Social media and democracy: we need laws, not platform guidelines](https://www.europarl.europa.eu/news/en/headlines/society/20210204STO97129/social-media-and-democracy-we-need-laws-not-platform-guidelines)
 5. [Social media innovation and policy](https://digital-strategy.ec.europa.eu/en/policies/social-media-policy)
+
+## eIDAS 2.0
+// This section needs more citations 
+1. [Article 45 Will Roll Back Web Security by 12 Years(https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+
 
 ## Professional Development
 

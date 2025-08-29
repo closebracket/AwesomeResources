@@ -38,6 +38,7 @@
 1. [Prof Bill Buchanan OBE Youtube](https://www.youtube.com/@BillBuchanan) - [Professor Bachanan](https://www.napier.ac.uk/people/bill-buchanan) is an expert in applied cryptography, digital privacy/trust and digital identity. 
    - 1.1 [Additional Lectures by Prof Bill Buchanan OBE on YouTube](https://www.youtube.com/billatnapier)
    - 1.2. [A Security Site - Articles by Bill Buchanan](https://medium.com/asecuritysite-when-bob-met-alice)
+   - 1.3 [Could RSA-2048 be Cracked By 2025](https://medium.com/asecuritysite-when-bob-met-alice/could-rsa-2048-be-cracked-by-2025-49f043c02d50)
 
 ## Microsoft Security
 1. [Reactor - Accelerate Application Security with Github AI](https://www.youtube.com/watch?app=desktop&v=bQBS0ec1xug)
@@ -50,6 +51,7 @@
 5. [Pentestlab](https://pentestlab.blog/) 
 6. [Securityaffairs](https://securityaffairs.co/wordpress/) - Blog of Pierluigi Paganini.
 7. [Schneier On Security](https://www.schneier.com/) - Blog of Bruce Schneier, "public interest technologist". 
+   7.1 [Breaking RSA with a Quantum Computer](https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html)
 8. [CryptoRom Bitcoin swindlers continue to target vulnerable iPhone and Android users](https://news.sophos.com/en-us/2022/03/16/cryptorom-bitcoin-swindlers-continue-to-target-vulnerable-iphone-and-android-users/)
 9. [UK Goverment launches new cyber security measures](https://www.adsadvance.co.uk/uk-government-launches-new-cyber-security-measures.html)
 10. [U.S. Spy Agency to Create AI Security Center, Official Announces](https://www.govtech.com/artificial-intelligence/us-spy-agency-to-create-ai-security-center-official-announces)
@@ -106,6 +108,7 @@
 14. [CrocodileHunter](https://github.com/EFForg/crocodilehunter) - Note: This tool has been archived, and is not recommended for use **BUT** could still be a good tool for finding IMSI catchers. Crocodile Hunter can be seen in use in "[Phone Hackers: Britains' Secret Surveillance](https://youtu.be/rzBWoVh4qhk)".
 15. [OSSF Scorecard](https://github.com/ossf/scorecard) -  Scorecard helps open source maintainers improve their security best practices and to help open source consumers judge whether their dependencies are safe.
 16. [Gittuf](https://github.com/gittuf/gittuf/) - A security layer for Git repositories.
+17. [GraphSpy - The swiss army knife for attacking M365 & Entra](https://insights.spotit.be/2024/04/05/graphspy-the-swiss-army-knife-for-attacking-m365-entra/)
 
    - 16.1 [Introducing Gittuf](https://openssf.org/blog/2024/01/18/introducing-gittuf-a-security-layer-for-git-repositories)
 

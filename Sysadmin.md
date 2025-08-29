@@ -100,3 +100,4 @@
 ## Tools
 
 1. [Cloudron](https://www.cloudron.io/index.html)
+2. [Ghost Storage Adapter S3](https://github.com/colinmeinke/ghost-storage-adapter-s3)
