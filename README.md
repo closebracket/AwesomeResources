@@ -141,3 +141,4 @@ You can also [jump straight in with VS Code for Github](https://github.dev/Codhe
 4. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 5. [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 6. [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
+7. [Computer dot Rip](https://computer.rip/)

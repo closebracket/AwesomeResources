@@ -55,6 +55,7 @@
 24. [The Slippery Slope of Big Data in Policing](https://hir.harvard.edu/big-data-in-policing/amp/)
 25. [Living With AI and emerging technologies: meeting ethical challenges through professional standards](https://www.bcs.org/articles-opinion-and-research/living-with-ai-and-emerging-technologies-meeting-ethical-challenges-through-professional-standards/)
 26. [Child Protection among critical services affected by cyber attack on English council](https://therecord.media/leicester-uk-cyberattack-local-council)
+27. [Anonymity is not a fundamental right: Experts Disagree with Europol Chief's request for encryption back door](https://www.techradar.com/computing/cyber-security/anonymity-is-not-a-fundamental-right-experts-disagree-with-europol-chiefs-request-for-encryption-back-door)
 
 ## Guidance <a name="guidance"></a>
 

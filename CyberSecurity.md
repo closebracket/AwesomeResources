@@ -90,6 +90,7 @@
    - 24.1 [CS50 CyberSecurity - Youtube Playlist](https://www.youtube.com/watch?v=kmJlnUfMd7I&list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 25. [Hacking Transcend Wifi SD Cards](https://haxit.blogspot.com/2013/08/hacking-transcend-wifi-sd-cards.html)
 26. [Malicious USB Cables](https://counterespionage.com/malicious-usb-cables/)
+27. [Easily create ten thousand Twitter accounts](https://diygod.cc/10k-twitter-accounts) - A chinese guide on how to create 10,000 twitter accounts. 
 
 ## Tools 
 1. [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
@@ -108,15 +109,21 @@
 14. [CrocodileHunter](https://github.com/EFForg/crocodilehunter) - Note: This tool has been archived, and is not recommended for use **BUT** could still be a good tool for finding IMSI catchers. Crocodile Hunter can be seen in use in "[Phone Hackers: Britains' Secret Surveillance](https://youtu.be/rzBWoVh4qhk)".
 15. [OSSF Scorecard](https://github.com/ossf/scorecard) -  Scorecard helps open source maintainers improve their security best practices and to help open source consumers judge whether their dependencies are safe.
 16. [Gittuf](https://github.com/gittuf/gittuf/) - A security layer for Git repositories.
-17. [GraphSpy - The swiss army knife for attacking M365 & Entra](https://insights.spotit.be/2024/04/05/graphspy-the-swiss-army-knife-for-attacking-m365-entra/)
-
    - 16.1 [Introducing Gittuf](https://openssf.org/blog/2024/01/18/introducing-gittuf-a-security-layer-for-git-repositories)
+17. [GraphSpy - The swiss army knife for attacking M365 & Entra](https://insights.spotit.be/2024/04/05/graphspy-the-swiss-army-knife-for-attacking-m365-entra/)
+18. [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+19. [ShadowDragon](https://shadowdragon.io/)
 
 ## Certification / Standards
 1. [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
 2. [Cyber Essentials Certificaton](https://www.ncsc.gov.uk/cyberessentials/overview)
 3. [Infosec Institute](https://www.infosecinstitute.com/resource-center/) - Info sec best practices & updates.
 4. [ISO - ISO/IEC 27001 — Information security management](https://www.iso.org/isoiec-27001-information-security.html)
+5. [NIST Cyber Security Framework](https://www.nist.gov/cyberframework)
+6. [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
+7. [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
+8. [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+9. [National Cyber Security Centre - Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/cyber-assessment-framework/caf-objective-a-managing-security-risk)
 
 
 ## Code Reference

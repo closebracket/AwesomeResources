@@ -109,7 +109,8 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
    - 9.4 [Awesome GraphQL](https://github.com/chentsulin/awesome-graphql)
 10. [The Repository Patter in C#](https://www.codeguru.com/csharp/repository-pattern-c-sharp/)
 11. [Creating a GraphQL backend in C# - How to get started with Hot Chocolate](https://medium.com/@TimHolzherr/creating-a-graphql-backend-in-c-how-to-get-started-with-hot-chocolate-12-in-net-6-30f0fb177c5c)
-12. 
+12. [CSharp Functional Extensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
+13. [Monads explained in C# (again)](https://mikhail.io/2018/07/monads-explained-in-csharp-again/)
 
 ## JS
 
@@ -132,6 +133,7 @@ Encapsulates a request as an object, thereby allowing for parameterization of cl
 6. [Defensive CSS](https://defensivecss.dev/)
 7. [Flexbox Froggy](https://flexboxfroggy.com/)
 8. [iOS 404](https://ios404.com/)
+9. [Bulma CSS](https://bulma.io/)
 
 ## Type Faces and Design
 1. [Inter typeface](https://rsms.me/inter/)

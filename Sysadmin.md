@@ -37,6 +37,7 @@
 2. [How to use SSH](https://www.ssh.com/ssh/command/)
 3. [Linux Command Map](https://xmind.app/m/WwtB/)
 4. [Getting started with Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+5. [Deploying an 11ty Site to Azure Static Web Apps](https://squalr.us/2021/05/deploying-an-11ty-site-to-azure-static-web-apps/)
 
 ## Linux Distributions <a name="linux"></a>
 
@@ -52,6 +53,7 @@
 10. [Qubes OS](https://www.qubes-os.org/intro/) - A reasonably secure operating system. _Recommended by Edward Snowden_
 11. [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
 12. [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
+
 #### Linux Resources
 
 1. [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)
@@ -97,7 +99,9 @@
 22. [Powershell Scripts (Paloalto Networks)](https://unit42.paloaltonetworks.com/tag/powershell-scripts/)
 23. [Powershell by Example](https://powershellbyexample.dev/)
 24. [Learn Powershell- PowerShell.org](https://powershell.org/2022/07/learn-powershell-in-5-painless-steps-storage-variables-arrays-hashtables-step-1/)
+
 ## Tools
 
 1. [Cloudron](https://www.cloudron.io/index.html)
 2. [Ghost Storage Adapter S3](https://github.com/colinmeinke/ghost-storage-adapter-s3)
+
