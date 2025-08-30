@@ -40,3 +40,14 @@
 6. [Canada said to have mapped out secret Chinese Police operations](https://www.bloomberg.com/news/articles/2024-07-13/canada-said-to-have-mapped-out-secret-chinese-police-operations)
 7. ['GhostEmperor' returns: Mysterious Chinese Hacking Group spotted for first time in two years.](https://therecord.media/ghostemperor-spotted-first-time-in-two-years)
 8. [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
+
+### GCHQ 
+1. [GCHQ Covernames / Programs](https://christopher-parsons.com/resources/the-sigint-summaries/gchq-covernames-programs-and-suggested-use-implementation/)
+2. [GCHQ Codewords and Abbreviations](https://www.electrospaces.net/p/gchq-nicknames-and-codewords.html)
+3. [Collect It All - Everyday Lives Turned Into Passive Signals Intelligence](https://www.openrightsgroup.org/app/uploads/2020/03/01-Part_One_Chapter_One-Passive_Collection.pdf)
+
+### NSA
+1. [NSA Covernames / Programs](https://christopher-parsons.com/resources/the-sigint-summaries/nsa-codenames-covernames-and-suggested-use-implementation/)
+
+### GCSB
+1. [GCSB Covernames / Programs](https://christopher-parsons.com/resources/the-sigint-summaries/gcsb-codenames-covernames-and-suggested-use-implementation/)
